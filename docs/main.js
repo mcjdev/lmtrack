@@ -1,5 +1,3 @@
-import * as d3 from "./d3.js"
-
 const btn = document.getElementById("clickme");
 
 btn.addEventListener("click", function(ev) {
